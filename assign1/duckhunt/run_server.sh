@@ -1,0 +1,1 @@
+./Skeleton verbose server < /tmp/player2server > /tmp/server2player
